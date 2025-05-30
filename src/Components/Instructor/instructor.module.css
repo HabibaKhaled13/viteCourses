@@ -1,0 +1,7 @@
+.img{
+    background-image: url(../../assets/mentor-single.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 230px; 
+    border-radius: 4px 4px 0 0;
+}
